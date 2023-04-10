@@ -1,0 +1,8 @@
+- [ ] Create repository for project 
+- [ ] Write a short discription of the project
+- [ ] Examine existing code with similar ideas
+- [ ] Analyse and run code in Visual Studio to get an understanding of how it works
+- [ ] Evaluate possible issues 
+- [ ] Document problems and find solutions
+- [ ] Alter and write code to suit this projects vision
+- [ ] Update roadmap for sprint #2
