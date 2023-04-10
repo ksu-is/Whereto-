@@ -1,6 +1,6 @@
-- [ ] Create repository for project 
-- [ ] Write a short discription of the project
-- [ ] Examine existing code with similar ideas
+- [X] Create repository for project 
+- [X] Write a short discription of the project
+- [X] Examine existing code with similar ideas
 - [ ] Analyse and run code in Visual Studio to get an understanding of how it works
 - [ ] Evaluate possible issues 
 - [ ] Document problems and find solutions
