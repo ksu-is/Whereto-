@@ -1,8 +1,9 @@
 - [X] Create repository for project 
 - [X] Write a short discription of the project
 - [X] Examine existing code with similar ideas
-- [ ] Analyse and run code in Visual Studio to get an understanding of how it works
-- [ ] Evaluate possible issues 
+- [X] Analyse and run code in Visual Studio to get an understanding of how it works
+- [X] Evaluate possible issues 
 - [ ] Document problems and find solutions
 - [ ] Alter and write code to suit this projects vision
-- [ ] Update roadmap for sprint #2
+- [X] Update roadmap for sprint #2
+- [ ] Figure out what CSS sectors google flights uses to define prices, flights, and times
